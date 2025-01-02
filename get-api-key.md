@@ -4,7 +4,7 @@ This document describes how to obtain an API key to use with axe DevTools Mobile
 
 ## Background
 
-Depending on the device(s) you will be performing testing on, you may need an API Key. Please note:
+Depending on the device(s) you will be performing testing on, you may need an API Key with axe DevTools Mobile. Please note:
 
 The API key is **required** when using:
 - Appium 
